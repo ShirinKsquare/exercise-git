@@ -34,12 +34,22 @@ Repository Hosting Service.
 
 #### 3 Describe the command that were used on Try Git tutorial.
 
+|command|description
+|--------------|------------
+|'get innit'| initialized empty. 
+
 git init--->
+
 git status--->
+
 git status -s--->
+
 git add--->
+
 git commit -m ""--->
+
 git log--->
+
 git diff Head--->
 git branch--->
 git check out --->
