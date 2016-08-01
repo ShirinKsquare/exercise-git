@@ -36,16 +36,17 @@ Repository Hosting Service.
 
 |command|description
 |--------------|------------
-|'get innit'| initialized empty. 
-|'get status'|
-|'git add'|
-|'git commit -m "" '|
-|'git log'|
-|'git diff Head'|
-|'git branch'| 
-|'git check out'|
-|'git merge'|
-
+|'get innit'| Initialized empty new local repository with the specific name. 
+|'get status'| To see how things has change and where we stand.
+|'git add'| add files to stage area to prepare for versioning. 
+|'git commit -m "" '| Record in version history.
+|'git log'| A journal that remembers all the changes we've committed  so far.
+|'git diff Head'| Shows the differences of our most recent commit.
+|'git branch <NAME>'| To create new branch.
+|'git branch -d <NAME>'| To remove the branch that work is done with.
+|'git check out <NAME>'| To change 
+|'git merge'| Merge back the branches to master 
+|'git clone'| Downloads a project and its entire version history 
 
 #### 4 What are the main advantages?
 
