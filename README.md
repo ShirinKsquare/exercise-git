@@ -23,10 +23,10 @@ readme.md file, click the edit icon and start answering the questions.
 ###Answers
 
 #### 1 What is Git?
-Version Control Repository 
+Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 
 #### 2 What is Github?
-
+Is both a remote server, a community of developers, and a graphical web interface for managing your Git project
 #### 3 Describe the command that were used on Try Git tutorial.
 
 #### 4 What are the main advantages?
