@@ -19,6 +19,7 @@ readme.md file, click the edit icon and start answering the questions.
   2. What is Github?
   3. Describe the commands that were used on Try Git tutorial (Use a table).
   4. What are the main advantages?
+
   
 ###Answers
 
@@ -30,6 +31,7 @@ Is both a remote server, a community of developers, and a graphical web interfac
 #### 3 Describe the command that were used on Try Git tutorial.
 
 #### 4 What are the main advantages?
+Working offline, fast to work with, smaller repositories, moving or adding files, ignore certain files, branches, check the status of the changes, stash branches, cherry pick changes from branches, find version that introduced a bug using binary search. 
 
 ##Exercise
 
