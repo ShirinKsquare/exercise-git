@@ -37,23 +37,14 @@ Repository Hosting Service.
 |command|description
 |--------------|------------
 |'get innit'| initialized empty. 
-
-git init--->
-
-git status--->
-
-git status -s--->
-
-git add--->
-
-git commit -m ""--->
-
-git log--->
-
-git diff Head--->
-git branch--->
-git check out --->
-git merge--->
+|'get status'|
+|'git add'|
+|'git commit -m "" '|
+|'git log'|
+|'git diff Head'|
+|'git branch'| 
+|'git check out'|
+|'git merge'|
 
 
 #### 4 What are the main advantages?
