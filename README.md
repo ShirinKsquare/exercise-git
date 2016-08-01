@@ -36,10 +36,20 @@ Repository Hosting Service.
 
 git init--->
 git status--->
+git status -s--->
+git add--->
+git commit -m ""--->
+git log--->
+git diff Head--->
+git branch--->
+git check out --->
+git merge--->
 
 
 #### 4 What are the main advantages?
-Working offline, fast to work with, smaller repositories, moving or adding files, ignore certain files, branches, check the status of the changes, stash branches, cherry pick changes from branches, find version that introduced a bug using binary search. 
+
+Working offline, fast to work with, moving or adding files, branches, check the status of the changes, 
+cherry pick changes from branches, localized and distributed control version. 
 
 ##Exercise
 
