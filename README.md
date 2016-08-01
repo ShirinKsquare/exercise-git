@@ -24,11 +24,19 @@ readme.md file, click the edit icon and start answering the questions.
 ###Answers
 
 #### 1 What is Git?
-Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+
+Git is a free and open source distributed version control system. 
 
 #### 2 What is Github?
-Is both a remote server, a community of developers, and a graphical web interface for managing your Git project
+
+Is both a remote server, a community of developers, and a graphical web interface for managing your Git project. It is a Gir 
+Repository Hosting Service.
+
 #### 3 Describe the command that were used on Try Git tutorial.
+
+git init--->
+git status--->
+
 
 #### 4 What are the main advantages?
 Working offline, fast to work with, smaller repositories, moving or adding files, ignore certain files, branches, check the status of the changes, stash branches, cherry pick changes from branches, find version that introduced a bug using binary search. 
