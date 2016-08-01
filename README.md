@@ -44,7 +44,7 @@ Repository Hosting Service.
 |'git diff Head'| Shows the differences of our most recent commit.
 |'git branch <NAME>'| To create new branch.
 |'git branch -d <NAME>'| To remove the branch that work is done with.
-|'git check out '<NAME>''| To change 
+|'git check out <NAME>'| To change 
 |'git merge'| Merge back the branches to master 
 |'git clone'| Downloads a project and its entire version history 
 
